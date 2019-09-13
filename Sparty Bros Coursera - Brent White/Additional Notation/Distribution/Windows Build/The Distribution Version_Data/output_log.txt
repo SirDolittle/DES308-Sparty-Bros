@@ -1,0 +1,97 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 870M (ID=0x1199)
+    Vendor:   NVIDIA
+    VRAM:     2976 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.334 seconds
+Platform assembly: C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\TheLynx1\Desktop\Distribution\Windows Build\The Distribution Version_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.234101 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1224 -> priority: 1 
+  Thread -> id: de8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.034434 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 362.
+Total: 0.328847 ms (FindLiveObjects: 0.018474 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.290255 ms  DeleteObjects: 0.004105 ms)
+
+Player State reset.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.658926 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 0.991057 ms (FindLiveObjects: 0.098120 ms CreateObjectMapping: 0.030790 ms MarkObjects: 0.467201 ms  DeleteObjects: 0.393713 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.244454 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2929.
+Total: 1.626993 ms (FindLiveObjects: 0.159702 ms CreateObjectMapping: 0.084572 ms MarkObjects: 0.813702 ms  DeleteObjects: 0.568606 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.936635 ms
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 1.177445 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.016011 ms MarkObjects: 0.198293 ms  DeleteObjects: 0.952056 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.448316 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 362.
+Total: 0.679864 ms (FindLiveObjects: 0.015600 ms CreateObjectMapping: 0.015190 ms MarkObjects: 0.290666 ms  DeleteObjects: 0.357996 ms)
+
+Player State reset.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.538225 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2380.
+Total: 0.798511 ms (FindLiveObjects: 0.078003 ms CreateObjectMapping: 0.043517 ms MarkObjects: 0.407672 ms  DeleteObjects: 0.268907 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.588081 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3789.
+Total: 1.373276 ms (FindLiveObjects: 0.112900 ms CreateObjectMapping: 0.084161 ms MarkObjects: 0.625261 ms  DeleteObjects: 0.550542 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.480518 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 6046.
+Total: 1.978420 ms (FindLiveObjects: 0.217589 ms CreateObjectMapping: 0.087446 ms MarkObjects: 0.912233 ms  DeleteObjects: 0.760741 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.973943 ms
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 1.580601 ms (FindLiveObjects: 0.011084 ms CreateObjectMapping: 0.016011 ms MarkObjects: 0.213894 ms  DeleteObjects: 1.339200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.373596 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 362.
+Total: 0.691359 ms (FindLiveObjects: 0.016011 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.297645 ms  DeleteObjects: 0.361280 ms)
+
