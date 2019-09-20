@@ -219,7 +219,7 @@ public class CharacterController2D : MonoBehaviour {
     // do what needs to be done to freeze the player
     void FreezeMotion() {
 		playerCanMove = false;
-		_rigidbody.isKinematic = true;
+		_rigidbody.isKinematic = false;
 	}
 
 	// do what needs to be done to unfreeze the player
